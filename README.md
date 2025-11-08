@@ -2,8 +2,7 @@
 
 This is a web application that provides real-time currency conversion. It is built using React and styled with Tailwind CSS. The project's core logic is centered around a custom React hook that fetches live exchange rates from an external API, demonstrating a clean and modular approach to handling asynchronous data and state in React.
 
-![Screenshot of the currency converter application](https://tradermade.com/static/uploads/currency_converter.webp)
-*(Image from the application's background)*
+![Screenshot of the currency converter application](Screenshot%202025-11-09%20001348.png)
 
 ## ✨ Features
 
