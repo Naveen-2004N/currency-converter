@@ -2,7 +2,11 @@
 
 This is a web application that provides real-time currency conversion. It is built using React and styled with Tailwind CSS. The project's core logic is centered around a custom React hook that fetches live exchange rates from an external API, demonstrating a clean and modular approach to handling asynchronous data and state in React.
 
+<<<<<<< HEAD
 <a href="https://www.mongodb.com/" target="_blank"><img src="output.png" alt="Currency Converter"></a>
+=======
+![Screenshot of the currency converter application](Screenshot%202025-11-09%20001348.png)
+>>>>>>> 031dccab0e4d35f5ca83a932ec0abaf075f8fe7c
 
 ## ✨ Features
 
@@ -52,4 +56,8 @@ You will need [Node.js](https://nodejs.org/) (version 18 or newer) and `npm` ins
 
 ## 📂 Project Structure
 
+<<<<<<< HEAD
 The project follows a standard Vite + React structure, with key logic organized into `components` and `Hooks`.
+=======
+The project follows a standard Vite + React structure, with key logic organized into `components` and `Hooks`.
+>>>>>>> 031dccab0e4d35f5ca83a932ec0abaf075f8fe7c
